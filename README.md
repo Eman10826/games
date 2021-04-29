@@ -158,17 +158,17 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## FPS
 
-* [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html)
+* [BananaBread](https://github.com/kripken/BananaBread) - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten. [Play it now!](https://kripken.github.io/BananaBread/cube2/bb.html) Broken
 
 ## RPG
 
-* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/)
-* [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
-* [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG.
+* [Diablo JS](https://github.com/mitallast/diablo-js) - Isometric minimal-code style game at html5 canvas and javascript.  [Play it now!](http://mitallast.github.io/diablo-js/) Works
+* [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.Broken
+* [Room for Change](https://github.com/antionio/game-off-2013) - Randomly generated action RPG. Broken
 
 ## MMORPG
 
-* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/)
+* [BrowserQuest](https://github.com/mozilla/BrowserQuest) - HTML5/JavaScript multiplayer game experiment. [Play it now!](http://browserquest.mozilla.org/) Broken
 * [Tap Tap Adventure](https://github.com/Tach-Yon/Tap-Tap-Adventure) - Expansion of BrowserQuest. [Play it now!](http://taptapadventure.com/play)
 
 ## Strategy
